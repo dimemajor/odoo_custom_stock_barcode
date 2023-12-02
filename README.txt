@@ -1,0 +1,1 @@
+Please see /__manifest__.py for description
